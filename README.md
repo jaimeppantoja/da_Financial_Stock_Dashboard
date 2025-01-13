@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on developing a **financial data dashboard** that empowers users with detailed insights into stock market trends and financial metrics. The dashboard is designed to provide a comprehensive view of price movements, correlations, and variations across selected stocks and a stock index. Additionally, it offers an integrated news feed that provides contextual information about the companies being analyzed.
+This project focuses on developing a **financial data dashboard** that empowers users with detailed insights into stock market trends and financial metrics. The dashboard is designed to provide a comprehensive view of price movements, correlations, and variations across selected stocks and a stock index. Additionally, it offers an integrated news feed that provides contextual information about the companies being analyzed. The dashboard can be accessed via [https://jaimepantoja.pythonanywhere.com/].
 
 The project architecture employs a modular approach, dividing the functionality into dedicated directories for different components. For example, data processing functions are housed in separate modules, allowing the callback functions in the Dash app to access specialized capabilities such as creating visualizations and retrieving news. The key steps in handling data and creating the dashboard include:
 
